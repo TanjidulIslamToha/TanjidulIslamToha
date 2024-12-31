@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/TanjidulIslamToha/TanjidulIslamToha/blob/main/animatedboy.gif"  />
+<img align="right" height="150" src="https://github.com/TanjidulIslamToha/TanjidulIslamToha/blob/main/coding-animation.gif?raw=true"  />
 
 ###
 
